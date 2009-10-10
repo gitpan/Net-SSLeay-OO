@@ -1,7 +1,10 @@
+Changes.pod
+COPYING.txt
 examples/cli-cert-old.pl
 examples/cli-cert.pl
 examples/README
 examples/req.conf
+examples/sslecho.pl
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
